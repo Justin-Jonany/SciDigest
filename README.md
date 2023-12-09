@@ -1,8 +1,8 @@
 # SciDigest
 
-With the growth of many fields, more papers are published annually. Researchers need to find sources for their research, so abstracts are helpful. However, reading through hundreds of unstructured abstracts is time-consuming and irritating.
+With the growth of many fields, more papers are published annually. Researchers need to read tons of journals, but reading through hundreds of unstructured abstracts is time-consuming and irritating. 
 
-**SciDigest** is a deep learning model that aims to help people, especially researchers, to digest abstracts better. This model receives abstracts as inputs and turns them into a structured abstract.
+SciDigest is a deep learning model that structures abstracts to help researchers save time when reading scientific journals. This model receives abstracts as inputs and turns them into a structured abstract.
 
 **SciDigest** will be trained on [PubMed 200k and 20k RCT dataset](https://github.com/Franck-Dernoncourt/pubmed-rct).
 
