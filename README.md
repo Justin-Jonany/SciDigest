@@ -25,7 +25,7 @@ SciDigest is a deep learning model that structures abstracts to help researchers
 > 
 > We also present a complete and irredundant classification of elements and stabilisers up to the action of where Sym4 permutes the four tensor factors of .
 
-### [example 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078146/)
+### [example 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078146/)
 **Input:**
 > The aim of this paper is to map the scientific landscape related to cancer research worldwide between 2012 and 2017. We use scientific publication data from Web of Science Core Collection and combine bibliometrics and social network analysis techniques to identify the most relevant journals, research areas, countries and research organizations in cancer scientific landscape. The results show: Oncotarget as the journal with most publications; a significant increase in China’s publications, reaching United States’ publications in 2017; MD Cancer Center, University of California and Harvard University as organizations with most publications; cell biology as the most frequent research area; breast, lung and colorectal cancer as the most frequent keywords; high density of co-authorship between organizations in the West, especially in the US, and low density between organizations in Asian and lower and medium income countries. Our findings can be used to guide a global knowledge platform guiding policy, planning and funding decisions as well as to establish new institutional collaborations.
 
